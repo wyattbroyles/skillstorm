@@ -1,1 +1,1 @@
-# skillstorm
+# skillstorm notes and assignments
