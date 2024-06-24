@@ -1,0 +1,3 @@
+Flight Number: 000111222 Departure City: Chicago Arrival City: New York CityFlight Number: 000111222
+Number of Passengers: -1Flight Number: 000111222 Departure City: Chicago Arrival City: New York CityFlight Number: 000111222
+Number of Passengers: 1
